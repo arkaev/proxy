@@ -5,7 +5,8 @@ var needProxyDomains = [
     "instagram.com", "cdninstagram.com", // instagram
     "news.google.com", "meduza.io", // news
     "jetbrains.com",
-    "hetzner.com"
+    "hetzner.com",
+    "ntc.party"
 ];
 
 function FindProxyForURL(url, host) {
